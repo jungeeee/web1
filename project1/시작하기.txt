@@ -1,7 +1,0 @@
-비주얼스튜디오에서 웹 환경 구축하기
->> html : live server 확장 프로그램 설치, 우클릭 하여 프로그램 실행
-
-추가 확장 프로그램
-prettier - code formatter
-auto close tag (html 태그 자동 닫기)
-auto rename tag (html 태그 이름 자동 변경)
